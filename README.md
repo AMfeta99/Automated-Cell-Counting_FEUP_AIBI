@@ -7,3 +7,5 @@ The project has two main goals/tasks:
    -Image Region of Interest (ROI) delineation
     
    -Cell segmentation and counting
+   
+Authors:Ana Maria Sousa, Bernardo Pereira, Jacinta Ferreira
