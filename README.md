@@ -5,6 +5,7 @@ This repository is dedicated to the AIBI 2019/2020 project. This project's objec
 The project has two main goals/tasks:
 
 - Image Region of Interest (ROI) delineation
+  
   ![image](https://github.com/AMfeta99/Automated-Cell-Counting_FEUP_AIBI/assets/74252797/7eaa66c7-27d2-4cf1-8a6e-d79f182d25d0)
 
 - Cell segmentation and counting
