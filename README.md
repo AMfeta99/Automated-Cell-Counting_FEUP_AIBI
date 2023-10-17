@@ -7,7 +7,7 @@ The project has two main goals/tasks:
 - Image Region of Interest (ROI) delineation
 - Cell segmentation and counting
   
-![image](https://github.com/AMfeta99/Automated-Cell-Counting_FEUP_AIBI/assets/74252797/bbe85430-7446-4ead-a402-8323d0b0f95f)
+  ![image](https://github.com/AMfeta99/Automated-Cell-Counting_FEUP_AIBI/assets/74252797/bbe85430-7446-4ead-a402-8323d0b0f95f)
 
 
    
